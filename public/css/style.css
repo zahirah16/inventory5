@@ -1,0 +1,114 @@
+
+.main{
+    height: 100vh; 
+}
+.navbar-brand {
+    padding-left: 20px;
+}
+.body-content{
+    background-color: #DDE6ED;
+    color: #27374D;
+}
+.content{
+    padding: 25px;
+}
+.sidebar{
+    background-color: #27374D;
+    color: #DDE6ED;
+    padding-top: 10px;
+}
+.sidebar a{
+    color: #DDE6ED;
+    text-decoration: none;
+    display: block;
+    padding: 12px;
+    padding-left: 35px;
+}
+.sidebar a:hover{
+    background: #526D82;
+}
+.active{
+    background-color: #526D82;
+    border-right: solid 8px dodgerblue;
+}
+
+.card-data{
+    border: 1px;
+    height: 7rem;
+    padding-top: 1rem;
+    border-radius: 10px;
+    /* padding: 1px 5px; */
+    
+}
+.card-data a {
+    color: #27374D;
+    text-decoration: none;
+
+}
+.card-data.barang{
+    background-color: #B1B2FF;
+
+}
+.card-data.guru{
+    background-color: #98A8F8;
+}
+.card-data.guna{
+    background-color: #AAC4FF; 
+}
+.card-data.pinjam{
+    background-color: #D2DAFF;
+    padding-right: 50px;
+    
+    
+}
+
+
+.table .kepala{
+    text-align: center; 
+    vertical-align: middle; 
+    padding: 10px; 
+}
+.table tbody{
+    text-align: center; 
+    vertical-align: middle; 
+    padding: 10px; 
+}
+
+
+.card-data i{
+    font-size: 60px;
+    padding-right: 40px;
+}
+.card-desc{
+    font-size: 30px;
+    padding-right: 20px;
+}
+.card-count{
+    font-size: 30px;
+    padding-right: 10px;
+}
+
+
+.table{
+    border: #27374D;
+
+}
+.atas{
+    font-size: large;
+}
+
+.delete {
+    margin-top: 300px;
+    background-color: #DDE6ED;
+    text-align: center;
+}
+
+.tabel .table .kepala{
+    background-color: #ADC4CE;
+    color: #27374D;
+}
+
+.bord .table .dash{
+    background-color: #ADC4CE;
+    text-align: center; 
+}
